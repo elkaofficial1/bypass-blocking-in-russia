@@ -10,7 +10,6 @@
 
 - [DPITunnel-cli-main](#dpitunnel-cli-main)
 - [goodbyedpi-0.2.3rc3-2](#goodbyedpi-023rc3-2)
-- [GoodbyeDPI-master](#goodbyedpi-master)
 - [zapret-discord-youtube-main](#zapret-discord-youtube-main)
 - [Tor browser](#tor-browser)
 
